@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://g5pq352.github.io/docs-4j4og4/sitemap.xml
